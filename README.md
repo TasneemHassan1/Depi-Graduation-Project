@@ -70,4 +70,5 @@ This project analyzes social issues in Egypt using various datasets. The aim is 
 - Differences across age groups.
 - Overall distribution of each issue nationwide.
 
+[Download the full report (PDF)](./Social_Issues_Egypt_Analysis.pdf)
 
