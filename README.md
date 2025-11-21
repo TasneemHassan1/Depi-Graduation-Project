@@ -71,4 +71,3 @@ This project analyzes social issues in Egypt using various datasets. The aim is 
 - Overall distribution of each issue nationwide.
 
 
-[Download the full report (PDF)](./Social_Issues_Egypt_Analysis.pdf)
