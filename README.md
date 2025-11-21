@@ -74,4 +74,4 @@ This project analyzes social issues in Egypt using various datasets. The aim is 
 
 ## 📎 Report (PDF)
 
-[Download the full report (PDF)](./Human%20Resources%20Dataset%20Analysis.pdf)
+[Download the full report (PDF)](./Social_Issues_ـEgypt_Analysis.pdf)
