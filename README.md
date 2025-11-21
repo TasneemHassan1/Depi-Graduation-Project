@@ -1,95 +1,76 @@
-# Human Resources Dataset Analysis
+# Social Issues in Egypt Dataset Analysis
 
-📌 **Project Description**
+## Overview
+This project analyzes social issues in Egypt using various datasets. The aim is to understand the relationships between education, health, and other social factors, and to provide insights that can inform policies and interventions.
 
-This project provides a structured Human Resources (HR) data analysis workflow.
-It guides the process of understanding, cleaning, preparing, and analyzing HR datasets to extract meaningful insights about employees’ education, performance ratings, and job satisfaction.
-
-The analysis aims to answer key HR questions such as:
-
-- Does education level influence performance?
-- How does job satisfaction vary across employees?
-- What are the main factors driving retention and promotion?
-
----
-
-## 🔄 Workflow
+## Analytical Workflow
 
 1. **Data Understanding**
-   - Identify available files and variables.
-   - Define variable types: numerical, categorical, or textual.
-   - Detect relationships across files (e.g., EmployeeID).
+   - Identify all available files and their content.
+   - Determine variable types (numerical, categorical, textual).
+   - Define potential relationships between files (e.g., Governorate and Year as keys).
 
 2. **Initial Data Exploration**
-   - Preview rows and dataset dimensions.
-   - Inspect data types.
+   - Display first few rows of each file.
+   - Check number of rows and columns.
+   - Inspect data types for each column.
    - Detect missing or abnormal values.
 
 3. **Data Merging**
-   - Combine multiple HR files using common keys.
-   - Ensure no duplicates remain after merging.
+   - Identify common columns (Governorate, Year, Age Group).
+   - Merge files into a unified DataFrame when appropriate.
+   - Ensure no duplicates after merging.
 
 4. **Data Cleaning**
    - Handle missing values (remove or impute).
    - Standardize column names.
-   - Fix incorrect data types.
+   - Convert incorrect data types (e.g., strings → numbers).
    - Remove duplicate rows.
 
 5. **Data Preparation**
-   - Create new calculated columns.
-   - Encode categorical variables.
-   - Address outliers if necessary.
+   - Create new columns if needed (e.g., rates, percentages).
+   - Encode categorical variables numerically.
+   - Handle outliers that affect accuracy.
 
 6. **Descriptive Analysis**
-   - Compute summary statistics (mean, median, min, max).
-   - Analyze distributions of education, satisfaction, and performance.
-   - Count employees by category or group.
+   - Calculate mean, median, min, max for key variables.
+   - Analyze distribution of education (literacy) levels.
+   - Examine incidence of health issues, begging, addiction, and divorce.
+   - Count records by category or group (Governorate, Year, Age Group).
 
 7. **Analytical Questions**
-   - Explore correlations between satisfaction and performance.
-   - Compare performance across education levels.
-   - Investigate links between rating, promotion, and retention.
+   - Investigate correlations between variables (e.g., illiteracy vs health outcomes).
+   - Explore patterns and trends across regions and years.
 
 8. **Data Visualization**
-   - Build charts: bar, pie, histograms, and line charts.
-   - Compare variables visually for better understanding.
+   - Use charts to illustrate key findings (bar charts, pie charts, histograms, line charts, heatmaps).
+   - Compare variables visually.
 
 9. **Insights & Findings**
-   - Summarize patterns in education, performance, and satisfaction.
-   - Highlight key HR takeaways.
+   - Extract key results from the analysis.
+   - Highlight significant patterns and observations.
 
 10. **Recommendations**
-    - Suggest improvements for employee engagement and performance.
-    - Provide HR-driven action points.
+    - Suggest improvements or interventions based on findings.
+    - Connect insights to policy or social actions.
 
----
+## Key Questions Addressed
+- Relationship between education (literacy) level and health outcomes.
+- Are areas with higher illiteracy experiencing worse health indicators?
+- Distribution of begging across governorates and years.
+- Correlation between addiction rates and divorce rates.
+- Average rate of each issue per governorate.
+- Impact of governorate-level education on addiction or begging rates.
+- Population percentages in each risk category.
+- Differences between urban vs rural areas (if available).
+- Link between begging cases and poverty/unemployment indicators.
+- Factors influencing health and social vulnerability.
+- Co-occurrence of social issues (e.g., addiction and divorce).
+- Interaction between education, health, and social vulnerability.
+- Differences across age groups.
+- Overall distribution of each issue nationwide.
 
-## ❓ Key Business Questions
 
-- What is the relationship between education and performance rating?
-- Do employees with higher performance scores report higher satisfaction?
-- How is satisfaction distributed across education levels?
-- Is there a link between performance rating and promotion/retention?
-- Which factors most influence employee satisfaction?
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Python** → Pandas, NumPy, Matplotlib, Seaborn  
-- **Jupyter Notebook / Google Colab**  
-- **Power BI / Tableau** (optional dashboards)
-
----
-
-## 📊 Deliverables
-
-- Cleaned and merged HR dataset.  
-- Notebook with descriptive and analytical insights.  
-- Visualizations answering HR questions.  
-- Summary of findings and actionable recommendations.  
-
----
 
 ## 📎 Report (PDF)
 
