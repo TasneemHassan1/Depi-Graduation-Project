@@ -1,74 +1,171 @@
-# Social Issues in Egypt Dataset Analysis
+Social Issues in Egypt – Data Analysis Project
 
-## Overview
-This project analyzes social issues in Egypt using various datasets. The aim is to understand the relationships between education, health, and other social factors, and to provide insights that can inform policies and interventions.
+A Power BI & Data Analytics Capstone Project
 
-## Analytical Workflow
+📌 Project Overview
 
-1. **Data Understanding**
-   - Identify all available files and their content.
-   - Determine variable types (numerical, categorical, textual).
-   - Define potential relationships between files (e.g., Governorate and Year as keys).
+This project analyzes five major social issues in Egypt using real datasets, survey results, and interactive dashboards.
+The issues covered include:
 
-2. **Initial Data Exploration**
-   - Display first few rows of each file.
-   - Check number of rows and columns.
-   - Inspect data types for each column.
-   - Detect missing or abnormal values.
+Illiteracy in Education
 
-3. **Data Merging**
-   - Identify common columns (Governorate, Year, Age Group).
-   - Merge files into a unified DataFrame when appropriate.
-   - Ensure no duplicates after merging.
+Women Issues & Divorce
 
-4. **Data Cleaning**
-   - Handle missing values (remove or impute).
-   - Standardize column names.
-   - Convert incorrect data types (e.g., strings → numbers).
-   - Remove duplicate rows.
+Begging & Homelessness
 
-5. **Data Preparation**
-   - Create new columns if needed (e.g., rates, percentages).
-   - Encode categorical variables numerically.
-   - Handle outliers that affect accuracy.
+Addiction
 
-6. **Descriptive Analysis**
-   - Calculate mean, median, min, max for key variables.
-   - Analyze distribution of education (literacy) levels.
-   - Examine incidence of health issues, begging, addiction, and divorce.
-   - Count records by category or group (Governorate, Year, Age Group).
+Public Health Deterioration
 
-7. **Analytical Questions**
-   - Investigate correlations between variables (e.g., illiteracy vs health outcomes).
-   - Explore patterns and trends across regions and years.
+The goal is to understand trends, identify key causes, and visualize the insights using professional Power BI dashboards.
 
-8. **Data Visualization**
-   - Use charts to illustrate key findings (bar charts, pie charts, histograms, line charts, heatmaps).
-   - Compare variables visually.
+📁 Project Workflow
+1. Data Collection
 
-9. **Insights & Findings**
-   - Extract key results from the analysis.
-   - Highlight significant patterns and observations.
+Gathered datasets for all five issues from multiple online sources.
 
-10. **Recommendations**
-    - Suggest improvements or interventions based on findings.
-    - Connect insights to policy or social actions.
+Extracted data from government portals, open-data websites, research reports, and statistical dashboards.
 
-## Key Questions Addressed
-- Relationship between education (literacy) level and health outcomes.
-- Are areas with higher illiteracy experiencing worse health indicators?
-- Distribution of begging across governorates and years.
-- Correlation between addiction rates and divorce rates.
-- Average rate of each issue per governorate.
-- Impact of governorate-level education on addiction or begging rates.
-- Population percentages in each risk category.
-- Differences between urban vs rural areas (if available).
-- Link between begging cases and poverty/unemployment indicators.
-- Factors influencing health and social vulnerability.
-- Co-occurrence of social issues (e.g., addiction and divorce).
-- Interaction between education, health, and social vulnerability.
-- Differences across age groups.
-- Overall distribution of each issue nationwide.
+Designed and distributed a survey to collect public opinions and perceptions about the five issues.
 
-[Download the full report (PDF)](./Social_Issues_Egypt_Analysis.pdf)
+Combined online data with real survey responses for richer insights.
+
+2. Data Cleaning
+
+Each team member cleaned one issue’s dataset using:
+
+Excel
+
+Power Query
+
+Python
+
+Cleaning steps included:
+
+Handling missing or inconsistent values
+
+Renaming and standardizing columns
+
+Fixing data types
+
+Preparing datasets for visualization
+
+3. Data Modeling (Power BI)
+
+A professional data model was built, including:
+
+Star schema design
+
+Relationship management
+
+Fact & dimension tables
+
+Clear modeling logic for KPIs and drill-down analysis
+
+This ensures the dashboards are accurate, efficient, and easy to explore.
+
+4. Data Visualization
+
+We built a complete Power BI reporting system, including:
+
+📌 Dashboard Pages
+
+Overview Page showing all 5 issues together
+
+Individual dashboards for:
+
+Illiteracy
+
+Women & Divorce
+
+Begging
+
+Addiction
+
+Health
+
+Survey Dashboard
+
+Light Mode & Dark Mode versions of all dashboards
+
+📌 Features Used
+
+KPI Cards
+
+Bar, Line, Pie, Map, and Composite Charts
+
+Tooltips
+
+Drill Through
+
+Q&A Visual
+
+Slicers & Filters
+
+Row-Level Security (RLS)
+
+YouTube awareness video links embedded in each dashboard
+
+Each dashboard includes an image linked to a YouTube awareness video relevant to the specific issue.
+
+📌 Navigation
+
+A main homepage with buttons linking to each dashboard
+
+Fully interactive navigation system
+
+📊 Analytical Focus
+
+Key analytical questions explored:
+
+How does education level relate to social issue prevalence?
+
+Do governorates with higher illiteracy suffer more from health or addiction issues?
+
+What are the trends in begging and homelessness across years?
+
+Does addiction correlate with divorce rates or family instability?
+
+How do citizens perceive the five social issues based on survey results?
+
+Which governorates are at highest risk—and why?
+
+💡 Insights & Findings
+
+(You can add your own insights here once your analysis is finalized.)
+
+🛠 Tools & Technologies
+
+Power BI
+
+Excel
+
+Power Query
+
+Python
+
+Google Forms / Survey tools
+
+📎 Project Features
+
+Full end-to-end data analysis cycle
+
+Cleaned and structured datasets
+
+Interactive dashboards
+
+Survey insights integrated with data
+
+Professional data modeling
+
+Light & Dark report themes
+
+RLS for secure user-level access
+
+YouTube awareness materials embedded
+
+GitHub-friendly documentation
+
+
+[Download the full report (PDF)](./Social_Issues_Analysis.pdf)
 
