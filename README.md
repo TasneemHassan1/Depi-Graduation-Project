@@ -1,4 +1,4 @@
-                                                 Social Issues in Egypt – Data Analysis Project
+                                       Social Issues in Egypt – Data Analysis Project
 
 A Power BI & Data Analytics Capstone Project
 
