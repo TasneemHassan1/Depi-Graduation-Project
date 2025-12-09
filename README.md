@@ -15,7 +15,7 @@ Data was gathered from multiple sources:
 ---
 
 ## 2. Data Cleaning
-Each dataset was cleaned using **Excel, Power Query, and Python**. Cleaning steps included:
+Each dataset was cleaned using Excel, Power Query, and Python. Cleaning steps included:
 - Handling missing and inconsistent values
 - Standardizing columns
 - Fixing incorrect data types
@@ -24,9 +24,9 @@ Each dataset was cleaned using **Excel, Power Query, and Python**. Cleaning step
 ---
 
 ## 3. Data Modeling
-Using **Power BI**, we created a professional data model:
-- Designed a **star schema**
-- Built **fact** and **dimension tables**
+Using Power BI, we created a professional data model:
+- Designed a star schema
+- Built fact and dimension tables
 - Established relationships between tables
 - Created calculated measures and KPIs
 
@@ -79,5 +79,3 @@ Visualizations include maps and cluster summary tables.
 You can download the full project report in PDF format here:  
 
 [📄 Download PDF](https://github.com/TasneemHassan1/Depi-Graduation-Project/raw/main/Social-Issues-in-Egypt-Dataset-Analysis.pdf)  
-
-> **Note:** Clicking the link will download the PDF directly from the GitHub repository.
