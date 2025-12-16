@@ -1,0 +1,28 @@
+Governorate	Homelessness	Addiction	Education	Health	Women Issues	Cluster	Cluster_Label
+Alexandria	0.018	0.021	0.029	0.0205	0.0244	1	Low
+Aswan	0.017	0.02	0.043	0.0205	0.0244	2	Medium
+Asyut	0.016	0.027	0.02	0.0205	0.0244	0	High
+Beheira	0.0153	0.025	0.029	0.02	0.0244	0	High
+Beni Suef	0.0153	0.028	0.02	0.0205	0.0244	0	High
+Cairo	0.012	0.02	0.029	0.0205	0.0244	0	High
+Dakahlia	0.0153	0.023	0.029	0.019	0.0244	0	High
+Damietta	0.019	0.025	0.029	0.017	0.023	1	Low
+Fayoum	0.014	0.024	0.021	0.0205	0.0244	0	High
+Gharbia	0.0153	0.02	0.029	0.018	0.0244	0	High
+Giza	0.013	0.026	0.029	0.0205	0.0244	0	High
+Ismailia	0.021	0.025	0.029	0.022	0.0244	1	Low
+Kafr El Sheikh	0.0153	0.025	0.029	0.024	0.0244	0	High
+Luxor	0.015	0.023	0.046	0.0205	0.0244	2	Medium
+Matrouh	0.013	0.025	0.024	0.0205	0.029	0	High
+Minya	0.02	0.019	0.023	0.0205	0.0244	1	Low
+Monufia	0.0153	0.025	0.029	0.0205	0.02	0	High
+New Valley	0.0153	0.025	0.045	0.0205	0.0244	2	Medium
+North Sinai	0.0153	0.025	0.026	0.0205	0.027	0	High
+Port Said	0.011	0.024	0.029	0.021	0.0244	0	High
+Qalyubia	0.0153	0.025	0.029	0.0205	0.019	0	High
+Qena	0.015	0.052	0.024	0.0205	0.0244	0	High
+Red Sea	0.014	0.025	0.022	0.0205	0.026	0	High
+Sharqia	0.0153	0.025	0.029	0.0205	0.025	0	High
+Sohag	0.017	0.02	0.021	0.0205	0.0244	1	Low
+South Sinai	0.0153	0.025	0.025	0.0205	0.024	0	High
+Suez	0.012	0.025	0.029	0.019	0.0244	0	High

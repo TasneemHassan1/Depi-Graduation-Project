@@ -1,0 +1,8 @@
+Issue,Year,Forecast,Lower_Bound,Upper_Bound,Change,Change_Pct,Trend,Forecast_Formatted
+Education,2024,0.934985127,0.924970715,0.945513353,,,Baseline,93.50%
+Education,2025,0.957888668,0.947260817,0.968505736,0.022903542,2.449615608,Slight Increase,95.79%
+Education,2026,0.963636,0.954,0.974,0.005747332,0.6,Slight Increase,96.36%
+Education,2027,0.969417816,0.959,0.979,0.005781816,0.6,Slight Increase,96.94%
+Education,2028,0.975234323,0.965,0.985,0.005816507,0.6,Slight Increase,97.52%
+Education,2029,0.981085729,0.971,0.991,0.005851406,0.6,Slight Increase,98.10%
+Education,2030,0.985,0.975,0.995,0.003914271,0.398973378,Slight Increase,98.50%

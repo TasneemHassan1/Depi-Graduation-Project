@@ -1,0 +1,7 @@
+Issue,Starting_Point_2024,Forecast_2030,Total_Change,Total_Change_Pct,Trend_2024_2030,Risk_Level,Data_Type
+Begging,"16,272","16,882",609.431,3.75%,Slight Increase,Low,Prophet Forecast
+Addiction,8.71%,8.46%,-0.0025,-2.84%,Slight Decrease,Low,Prophet Forecast
+Education,93.50%,97.00%,0.035,3.74%,Slight Increase,Low,Prophet Forecast
+Health,64.31,72.94,8.6244,13.41%,Critical Increase,High,Prophet Forecast
+Women's Issues,2.85,3.29,0.4351,15.27%,Critical Increase,High,Prophet Forecast
+Illiteracy,22.50%,14.92%,-0.0758,-33.70%,Critical Decrease,High,Prophet Forecast
