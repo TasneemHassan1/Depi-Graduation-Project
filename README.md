@@ -82,6 +82,3 @@ We used Time Series Analysis with Facebook Prophet to forecast six major social 
 
 ## You can View the full project here : 
 (https://fengtantaedu-my.sharepoint.com/personal/ug_31202275_ics_tanta_edu_eg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fug%5F31202275%5Fics%5Ftanta%5Fedu%5Feg%2FDocuments%2FDepi%20Graduation%20Project%20Folder&viewid=4ea78bd5%2Dadd0%2D43b0%2Dae59%2D14fd7947cc97&ga=1)
-
-## Power bI Fabric
-(https://app.powerbi.com/groups/bcd570ce-8e77-4bb0-8d61-b2df3c636dff/reports/fd83a9d1-1613-4de4-b62e-55aeab9f2f0f/406112a0bed15d407045?experience=power-bi)
