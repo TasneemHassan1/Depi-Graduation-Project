@@ -50,11 +50,15 @@ Features:
 
 ---
 
-## 5. K-Means Clustering Model
+## 5. Machine Learning Models
+1-K-Means Clustering Model
 Grouped governorates based on:
 - Risk levels, social indicators, health metrics, education, addiction, homelessness  
 
 Visualizations include maps and cluster summary tables.
+
+2- Time Series Forcasting Model
+We used Time Series Analysis with Facebook Prophet to forecast six major social issues in Egypt up to 2030. Cleaned annual data (2018–2023) was used to identify trends and generate forecasts for 2024–2030. Results were analyzed, classified by trend severity, and visualized to support data-driven decision-making.
 
 ---
 
@@ -71,11 +75,12 @@ Visualizations include maps and cluster summary tables.
 - **Power BI** – Data modeling & visualization  
 - **Excel / Power Query** – Data cleaning & preparation  
 - **Python** – Data processing and analytics  
-- **K-Means Clustering** – Unsupervised machine learning  
-
+- **K-Means Clustering Model** – Unsupervised machine learning  
+- **Time Series Forcasting Model** –Supervised machine Learning
+  
 ---
 
 ## Download the Full Report (PDF)
-You can download the full project report in PDF format here:  
+You can View the full project here :  
 
-[📄 Download PDF](https://github.com/TasneemHassan1/Depi-Graduation-Project/raw/main/Social-Issues-in-Egypt-Dataset-Analysis.pdf)  
+(https://fengtantaedu-my.sharepoint.com/personal/ug_31202275_ics_tanta_edu_eg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fug%5F31202275%5Fics%5Ftanta%5Fedu%5Feg%2FDocuments%2FDepi%20Graduation%20Project%20Folder&viewid=4ea78bd5%2Dadd0%2D43b0%2Dae59%2D14fd7947cc97&ga=1)  
