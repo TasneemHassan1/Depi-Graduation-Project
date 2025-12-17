@@ -25,7 +25,7 @@ Each dataset was cleaned using Excel, Power Query, and Python. Cleaning steps in
 
 ## 3. Data Modeling
 Using Power BI, we created a professional data model:
-- Designed a star schema
+- Designed a Snowflake schema
 - Built fact and dimension tables
 - Established relationships between tables
 - Created calculated measures and KPIs
